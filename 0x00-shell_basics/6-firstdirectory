@@ -1,2 +1,4 @@
-#!/bin/bash
+
+cd ir /tmp/my_first_directory
+
 mkdir my_first_directory /tmp
