@@ -1,1 +1,1 @@
-0x00 basic shell
+i am an alx student am an alx student> student
