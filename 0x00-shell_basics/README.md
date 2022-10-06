@@ -1,2 +1,1 @@
-#!/bin/bash
-pwd
+i am a software engineer
