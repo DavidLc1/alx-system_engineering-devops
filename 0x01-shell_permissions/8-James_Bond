@@ -1,2 +1,2 @@
-#!/bin/bash
-chmod a+rwx
+`#!/bin/bash
+chmod 777 scratch
